@@ -15,14 +15,15 @@ I'm an aspiring **Cloud and DevOps Engineer** with a strong foundation in AWS se
 
 ## 🧪 Hands-on Projects
 - **Automated Backup System on AWS**: S3 + Lambda + DynamoDB + SNS  
-- **CI/CD Pipeline using Jenkins & GitHub Actions**: Code analysis and automated deployments  
+- **CI/CD Pipeline using Jenkins & Docker**: Code analysis and automated deployments as docker image
+  
 - **Serverless Fraud Detection**: Real-time data alerts using CloudFront, API Gateway, and Lambda
 
 ---
 
 ## 📌 Other Skills
 - MERN Stack basics (used in academic projects)  
-- REST APIs, SQL, and frontend integration  
+- REST APIs, and frontend integration  
 
 ---
 
