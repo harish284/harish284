@@ -5,7 +5,7 @@ I'm an aspiring **Cloud and DevOps Engineer** with a strong foundation in AWS se
 ---
 
 ## 🚀 Core Skills
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://drive.google.com/file/d/1StQGriNvP0d-QS6nahf1R8WQ1WpiZRqt/view?usp=drive_link)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
